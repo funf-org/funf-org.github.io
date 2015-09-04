@@ -1,0 +1,9 @@
+/* Lime Style - lime.css */
+
+a:hover, #nav *:hover, #nav .active, #nav .active, #nav ul a.hover, #portfolio-title  a:hover, #blog-title  a:hover, #blog-list .blog-list-group h5 a:hover, #post-tags a:hover, #post-author a, .comment-body a, #comments ol.commentlist li.comment div.vcard cite.fn a:hover, #comments ol.commentlist li.comment div.comment-meta a:hover, #comments ol.commentlist li.comment div.reply a:hover, .widget-block h2, #share a:hover, .footer-widget .email-addy a:hover, ul.footer-nav li a:hover, #twitter_update_list a:hover,
+.read-more:hover, .portfolio-title a:hover, .tab_content a:hover, ul.who-we-are span.social-link a:hover  {color:#88b400;} 
+
+#nav .active {border-bottom:2px solid #88b400;}
+
+.slide-button .fadeThis {background:url(../skins/lime/button-slider.png) 0 0 no-repeat;}
+.slide-button .hover {background:url(../skins/lime/button-slider.png) 0 -42px no-repeat;}
